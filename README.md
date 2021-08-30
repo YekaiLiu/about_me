@@ -1,2 +1,2 @@
-# about_me
-self introduction
+# aboutme.github.io
+aboout me
